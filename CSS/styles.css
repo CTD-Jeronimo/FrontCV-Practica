@@ -1,0 +1,47 @@
+#title{
+    text-align: center;
+    background-color: #C4C4C4;
+}
+
+.color-gray{
+    background-color: #C4C4C4;
+}
+
+.div-style{  /**/
+    width: 1440px;
+    height: 55px;
+}
+
+.font-style-bold{
+    font-weight: bold;
+}
+
+.font-style-italyc{
+    font-style: italic;
+}
+
+.footer-styles{
+    font-size: 20px;
+    background-color: #005677;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 9px;
+    position:static;
+}
+
+
+.section-header{
+    text-align: center;
+    background-color: #E6E6E6;
+}
+
+.space-white{
+    margin: 80px;
+}
+
+.sub-titles{
+    background-color: #C4C4C4;
+    color: #005677;
+}
+
+
